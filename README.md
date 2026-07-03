@@ -10,8 +10,7 @@
 
 ## 🛠️ What I work with
 
-**Design**
-`UI/UX Design` · `Figma` · `Wireframing` · `Prototyping` · `Game Graphics`
+
 
 **Languages**
 `Dart` · `Java (OOP)` · `C++` · `JavaScript`
@@ -30,7 +29,6 @@
 ## 🌱 Currently
 
 - 📚 Studying Computer Science & Engineering at AUST
-- 🎨 Sharpening my UI/UX design skills
 - 📱 Building mobile apps with Flutter and exploring full-stack web development
 
 ---
