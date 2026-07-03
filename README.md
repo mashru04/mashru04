@@ -35,14 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mashruba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashru04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashru04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-</div>
 
 ---
 
