@@ -1,12 +1,10 @@
-# Hi there, I'm Mashruba Islam 👋
+<div align="center">
 
-🎓 CSE undergraduate at **Ahsanullah University of Science and Technology (AUST)**, Dhaka
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mashruba%20Islam&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%7C%20Flutter%20Developer%20%7C%20CSE%20@%20AUST&descAlignY=58&descSize=18)
 
-💜 Passionate about **UI/UX Design** — I love crafting interfaces that feel intuitive and look clean
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Mashruba+👋;UI%2FUX+Design+Enthusiast+🎨;Flutter+App+Developer+📱;Game+Graphics+Artist+🎮)](https://git.io/typing-svg)
 
-📱 Building cross-platform apps with **Flutter**
-
-🎮 Worked on **game graphics** as part of a game development team
+</div>
 
 ---
 
@@ -39,12 +37,17 @@
 
 ## 📊 GitHub Stats
 
-![Mashruba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashru04&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashru04&layout=compact&theme=tokyonight)
+![Mashruba's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashru04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashru04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
 
 ---
 
 ## 📫 Reach me
 
 - GitHub: [@mashru04](https://github.com/mashru04)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
